@@ -100,27 +100,4 @@ The **Smart Aqua Meter** is a smart IoT-based water management system built usin
 
 ---
 
-## 🔐 Credentials (Update Before Uploading)
 
-```cpp
-#define BLYNK_TEMPLATE_ID "TMPL3l-FmibDs"
-#define BLYNK_TEMPLATE_NAME "AQUA METER"
-#define BLYNK_AUTH_TOKEN "Oc2q6JNIT2R2KtR__9TJJ96OumGM5Q2-"
-
-#define BLYNK_WIFI_SSID "YOUR_WIFI_SSID"
-#define BLYNK_WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
-```
-
----
-
-## 🧪 Demo (Optional)
-
-Include a screenshot of the Blynk app or a short GIF showing live sensor data and relay activation.
-
----
-
-## 📄 License
-
-MIT License — feel free to use and modify for educational and non-commercial purposes.
-
----
